@@ -1,2 +1,2 @@
-# POS_System_CLI
-My POS CLI Project
+# POS_System_GUI
+My POS GUI Project
